@@ -1,3 +1,6 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "program1NameKEY": "Windows Remote Desktop",
+  "protocol1TypeKEY": "RDP",
+  "port1RangeKEY": "3369"
 }
